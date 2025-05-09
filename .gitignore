@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Telegram Session
+*.session
+*.session-journal
+
+# Local Configuration
+.env
+
+# Logs
+*.log
